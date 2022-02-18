@@ -14,7 +14,7 @@ gem "anycable-rails"
 # gem 'sqlite3'
 # gem "sqlite3", "~> 1.3.6"
 # Use Puma as the app server
-gem "puma", "~> 5.5"
+gem "puma", "~> 5.6"
 # Use SCSS for stylesheets
 gem "sass-rails"
 # Use Uglifier as compressor for JavaScript assets
